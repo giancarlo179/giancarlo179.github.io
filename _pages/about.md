@@ -8,7 +8,7 @@ date: 2023-12-15
 <br>
 
 <p align="center">
-<img src="/assets/images/about/avatar.jpeg">
+<img src="/assets/images/avatar.png">
 </p>
 
 Mi nombre es Giancarlo Pasquale Bellido (aka **Giancihack**), actualmente trabajo como Jefe de Proyectos en la Consultora GMV en la division de CERT.
