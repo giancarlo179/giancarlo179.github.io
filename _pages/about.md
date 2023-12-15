@@ -11,7 +11,7 @@ date: 2023-12-15
 <img src="/assets/images/about/avatar.jpeg">
 </p>
 
-Mi nombre es Marcelo Vázquez (aka **Giancihack**), actualmente trabajo como Jefe de Proyectos en la Consultora GMV en la division de CERT.
+Mi nombre es Giancarlo Pasquale Bellido (aka **Giancihack**), actualmente trabajo como Jefe de Proyectos en la Consultora GMV en la division de CERT.
 
 <p align="center">
 <img src="/assets/images/about/certs8.jpeg">
