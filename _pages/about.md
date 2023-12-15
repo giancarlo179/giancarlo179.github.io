@@ -25,26 +25,32 @@ Habilidades: Cybersecurity, risk analysis, systems audit, IT infrastructure, Man
 
 ## Formacion
 
-2012 – 2018     Licenciatura en Ingeniería de Sistemas, Sucre, Bolivia
-                Universidad San Francisco Xavier de Chuquisaca – Score: 95/100, Aprobado con Felicitación
-2018 – 2019 Máster Ciberseguridad, Barcelona, España (Presencial)
-Universidad Ramón Llull - La Salle Campus Barcelona – Score: 7.6/10
-2021 Diplomado en Educación Superior
-Universidad Pública de El Alto
-2021 Internal Auditor ISO 27001
-IRCA
-2022 C|IIF - Certificación Internacional en Informática Forense
-Informática Forense
-2022 Diplomado en Auditoria informática
-Universidad Privada del Valle
-2022 – En Curso CISSP - Certified Information Systems Security Professional
+Licenciatura en Ingeniería de Sistemas, Sucre, Bolivia (2012 – 2018)<br>
+***Universidad San Francisco Xavier de Chuquisaca – Score: 95/100, Aprobado con Felicitación***
+
+2018 – 2019 Máster Ciberseguridad, Barcelona, España (Presencial)<br>
+***Universidad Ramón Llull - La Salle Campus Barcelona – Score: 7.6/10***
+
+2021 Diplomado en Educación Superior<br>
+***Universidad Pública de El Alto***
+
+2021 Internal Auditor ISO 27001<br>
+***IRCA Registro Internacional de Auditores Certificados***
+
+2022 C|IIF - Certificación Internacional en Informática Forense<br>
+***Informática Forense***
+
+2022 Diplomado en Auditoria informática<br>
+***Universidad Privada del Valle***
+
+2022 – En Curso CISSP - Certified Information Systems Security Professional<br>
 (ISC)2
-2022 Carrera de Seguridad informática – 20 Cursos aprobados
-Platzi Academy
-2022 C|EH - Certified Ethical Hacker
-EC Council – Score: 96/100
-2023 C|EH - Certified Ethical Hacker Practical
-EC Council – Score: 100/100
+
+2022 C|EH - Certified Ethical Hacker<br>
+***EC Council – Score: 96/100***
+
+2023 C|EH - Certified Ethical Hacker Practical<br>
+***EC Council – Score: 100/100***
 
 ## Material de apoyo
 Estos son los gists que he redactado como material de apoyo para aquellos que se quieran certificar del OSCP/OSWP, así como otras temáticas:
