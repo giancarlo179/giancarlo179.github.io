@@ -117,7 +117,9 @@ Universidad San Francisco Xavier de Chuquisaca<br>
 
 ### Experiencia como Conferencista Internacional
 
-Noviembre, 2022 4to Congreso Internacional de Seguridad Informática – AGETIC – Min. de la Presidencia
+Noviembre, 2022 4to Congreso Internacional de Seguridad Informática – AGETIC – Min. de la Presidencia | <p align="center" >
+<img src="/assets/images/avatar.png" width="200" height="200">
+</p>
 La Paz, Bolivia Tema: El mundo detrás de un email Phishing
 Agosto, 2022 Congreso Internacional de Ciberseguridad en Bancos y Entidades Financieras
 La Paz, Bolivia Tema: Análisis e Investigación de Ataques Phishing
