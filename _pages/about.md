@@ -117,24 +117,15 @@ Universidad San Francisco Xavier de Chuquisaca<br>
 
 ### Experiencia como Conferencista Internacional
 
-Noviembre, 2022 4to Congreso Internacional de Seguridad Informática – AGETIC – Min. de la Presidencia | <p align="center" >
-<img src="/assets/images/avatar.png" width="200" height="200">
-</p>
-La Paz, Bolivia Tema: El mundo detrás de un email Phishing
-Agosto, 2022 Congreso Internacional de Ciberseguridad en Bancos y Entidades Financieras
-La Paz, Bolivia Tema: Análisis e Investigación de Ataques Phishing
-Mayo, 2022 BSIDES Argentina 2022
-La Paz, Bolivia Tema: Phishing attacks using open redirect.
-Abril, 2022 Congreso Internacional - Bolivia Experta, Universidad Mayor de San Simón UMSS
-La Paz, Bolivia Tema: Seguridad de la Información para Pymes y Startups
-Diciembre, 2021 14vo Congreso Internacional de Informática Forense & Hacking Ético
-La Paz, Bolivia Tema: Hardware Hacking con Rubber Ducky USB
-Diciembre, 2021 3er Congreso Internacional de Seguridad Informática – AGETIC – Min. de la Presidencia
-La Paz, Bolivia Tema: Gestion de Incidentes con The Hive Project
-Octubre, 2021 10minds – Programa Tecnologico Empresarial de la Fundación Actívate Sucre
-La Paz, Bolivia Tema: Seguridad de la Información para Pymes y Startups
-Abril, 2020 Congreso Internacional - Bolivia
-
+|Fecha|Lugar|Titulo de la Conferencia|Imagen| 
+|---|---|---|---|
+|Noviembre, 2022 La Paz, Bolivia |4to Congreso Internacional de Seguridad Informática – AGETIC – Min. de la Presidencia|Tema: El mundo detrás de un email Phishing|<img src="/assets/images/avatar.png" width="200" height="200">| 
+|Agosto, 2022 La Paz, Bolivia | Congreso Internacional de Ciberseguridad en Bancos y Entidades Financieras|Tema: Análisis e Investigación de Ataques Phishing|<img src="/assets/images/avatar.png" width="200" height="200">| 
+|Mayo, 2022  La Paz, Bolivia | BSIDES Argentina 2022|Tema: Phishing attacks using open redirect.| <img src="/assets/images/avatar.png" width="200" height="200">| 
+|Abril, 2022 La Paz, Bolivia |Congreso Internacional - Bolivia Experta, Universidad Mayor de San Simón UMSS|Tema: Seguridad de la Información para Pymes y Startups| <img src="/assets/images/avatar.png" width="200" height="200">| 
+|Diciembre, 2021 La Paz, Bolivia |14vo Congreso Internacional de Informática Forense & Hacking Ético|Tema: Hardware Hacking con Rubber Ducky USB| <img src="/assets/images/avatar.png" width="200" height="200">| 
+|Diciembre, 2021 La Paz, Bolivia |3er Congreso Internacional de Seguridad Informática – AGETIC – Min. de la Presidencia|Tema: Gestion de Incidentes con The Hive Project| <img src="/assets/images/avatar.png" width="200" height="200">| 
+|Octubre, 2021 La Paz, Bolivia |10minds – Programa Tecnologico Empresarial de la Fundación Actívate Sucre| Tema: Seguridad de la Información para Pymes y Startups| <img src="/assets/images/avatar.png" width="200" height="200">| 
 
 ### FORMACIÓN COMPLEMENTARIA – CURSOS Y CERTIFICACIONES
 FECHA
