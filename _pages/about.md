@@ -13,7 +13,8 @@ date: 2023-12-15
 
 Mi nombre es Giancarlo Pasquale Bellido (aka **astetrix**), actualmente trabajo como Jefe de Proyectos en la Consultora GMV en la division de CERT.
 
-Ingeniero de Sistemas, Máster en Ciberseguridad, Hacker ético Certificado C|EH, Auditor Interno Certificado IRCA, Ganador del premio al talento en Ciberseguridad España 2019, Docente de Postgrado en Especialidades, Maestrías y Diplomados, con experiencia en el área de Pentesting, Ethical Hacking, SIEM, SOC, Networking, IT Infrastructure Network Management, Network administration, Network Monitoring.
+Ingeniero de Sistemas, Máster en Ciberseguridad, Hacker ético Certificado C|EH, Auditor Interno Certificado IRCA, Ganador del premio al talento en Ciberseguridad España 2019, Docente de Postgrado en Especialidades, Maestrías y Diplomados, con experiencia en el área de Pentesting, Ethical Hacking, SIEM, SOC, Networking, IT Infrastructure Network Management, Network administration, Network Monitoring.<br>
+
 Me considero una persona activa con habilidad de trabajar en equipo, con habilidad de buscar soluciones determinadas a los problemas de manera estratégica, formular soluciones. Mantengo mi carácter firme en el trabajo a presión y me adapto fácilmente a entornos diferentes para afrontar nuevas tareas.<br>
 
 Habilidades: Cybersecurity, risk analysis, systems audit, IT infrastructure, Management network, Administration and network monitoring, Red Team, Blue Team, Ethical Hacking, Pentesting, Audit, Forensic Investigator.
@@ -48,15 +49,20 @@ Licenciatura en Ingeniería de Sistemas, Sucre, Bolivia (2012 – 2018)<br>
 2023 C|EH - Certified Ethical Hacker Practical<br>
 ***EC Council – Score: 100/100***
 
+2023 eJPT - Certified Penetration Tester<br>
+***eLearningSecurity – Score: 100/100***
+
 ## Experiencia Profesional
 
-03/2020 – Actual CERT Jefe de Proyecto – Senior Cybersecurity Consultant
-GMV Soluciones Globales Internet, Barcelona – España
-• Jefe de Proyectos de CERT – SOC – Implantación de Soluciones SIEM para proyectos en Clientes del Sector Financiero.
-• Gestión de Incidentes de Ciberseguridad en Clientes del Sector Financiero
-• Gestion de Proyectos de Ciberseguridad
-12/2020 – 02/2023 Analista Centro de Operaciones de Seguridad de la Información
-Banco Bisa S.A – Grupo Financiero Bisa, La Paz - Bolivia
+***03/2023 – Actual CERT Jefe de Proyecto – Senior Cybersecurity Consultant***<br>
+GMV Soluciones Globales Internet, Barcelona – España<br>
+Jefe de Proyectos de CERT/SOC – Implantación de SOCaaS para proyectos en Clientes del Sector Financiero.<br>
+Gestion de Personal, KPI y SLAs de Servicio de SOC.<br>
+Gestión de Incidentes de Ciberseguridad en Clientes del Sector Financiero<br>
+Gestion de Proyectos de Ciberseguridad<br>
+
+***12/2020 – 02/2023 Analista Centro de Operaciones de Seguridad de la Información***<br>
+Banco Bisa S.A – Grupo Financiero Bisa, La Paz - Bolivia<br>
 • Líder y Project Manager del Proyecto de Implementación de SIEM con más de 150 fuentes de datos integradas y diseño de más de 30 casos de uso.
 • Supervisión de Bitácoras, Reportes y KPI de Operadores SOC Nivel 1
 • Analista SOC Nivel 2, Nivel 3
