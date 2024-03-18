@@ -126,6 +126,7 @@ Universidad San Francisco Xavier de Chuquisaca<br>
 |Diciembre, 2021 La Paz, Bolivia |14vo Congreso Internacional de Informática Forense & Hacking Ético|Tema: Hardware Hacking con Rubber Ducky USB| <img src="/assets/images/avatar.png" width="200" height="200">| 
 |Diciembre, 2021 La Paz, Bolivia |3er Congreso Internacional de Seguridad Informática – AGETIC – Min. de la Presidencia|Tema: Gestion de Incidentes con The Hive Project| <img src="/assets/images/avatar.png" width="200" height="200">| 
 |Octubre, 2021 La Paz, Bolivia |10minds – Programa Tecnologico Empresarial de la Fundación Actívate Sucre| Tema: Seguridad de la Información para Pymes y Startups| <img src="/assets/images/avatar.png" width="200" height="200">| 
+|Abril, 2020 Sucre, Bolivia |Congreso Internacional - Bolivia Experta, Universidad Católica boliviana “San Pablo” | Tema: Python para Pentesters | <img src="/assets/images/avatar.png" width="200" height="200">|
 
 ### FORMACIÓN COMPLEMENTARIA – CURSOS Y CERTIFICACIONES
 FECHA
