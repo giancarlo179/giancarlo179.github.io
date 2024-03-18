@@ -4,13 +4,12 @@ title: "Información del autor"
 permalink: /about/
 date: 2023-12-15
 ---
-## Certificados
 
 <p align="center" >
 <img src="/assets/images/avatar.png" width="200" height="200">
 </p>
 
-## Material de apoyo
+## Perfil
 
 Mi nombre es Giancarlo Pasquale Bellido (aka **astetrix**), actualmente trabajo como Jefe de Proyectos en la Consultora GMV en la division de CERT.
 
