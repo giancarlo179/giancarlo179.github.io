@@ -63,11 +63,11 @@ GMV Soluciones Globales Internet, Barcelona – España<br>
 
 ***12/2020 – 02/2023, Analista Centro de Operaciones de Seguridad de la Información***<br>
 Banco Bisa S.A – Grupo Financiero Bisa, La Paz - Bolivia<br>
-• Líder y Project Manager del Proyecto de Implementación de SIEM con más de 150 fuentes de datos integradas y diseño de más de 30 casos de uso.
-• Supervisión de Bitácoras, Reportes y KPI de Operadores SOC Nivel 1
-• Analista SOC Nivel 2, Nivel 3
-• Funciones: Análisis de Ciber inteligencia - Threat Hunting - Elaboración de Politicas, Manuales y Procedimientos de Centro de Operaciones de Seguridad - Elaboración de Informes de Eventos de Ciberseguridad - Gestión de Incidentes de Seguridad
-• Mejoramiento del servicio SOC para las 9 Empresas pertenecientes al grupo financiero BISA
+- Líder y Project Manager del Proyecto de Implementación de SIEM con más de 150 fuentes de datos integradas y diseño de más de 30 casos de uso.<br>
+- Supervisión de Bitácoras, Reportes y KPI de Operadores SOC Nivel 1.<br>
+- Analista SOC Nivel 2, Nivel 3.<br>
+- Funciones: Análisis de Ciber inteligencia - Threat Hunting - Elaboración de Politicas, Manuales y Procedimientos de Centro de Operaciones de Seguridad - Elaboración de Informes de Eventos de Ciberseguridad - Gestión de Incidentes de Seguridad.<br>
+- Mejoramiento del servicio SOC para las 9 Empresas pertenecientes al grupo financiero BISA.<br>
 
 010/2021 – Actual, Docente de Posgrado Universidad Privada del Valle, Sede La Paz - Sucre***<br>
 • Docente de Posgrado en el Diplomado de Hacking Ético y Ciberseguridad en 2 facultades de posgrado.
