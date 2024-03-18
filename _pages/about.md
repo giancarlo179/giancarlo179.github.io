@@ -115,7 +115,7 @@ Universidad San Francisco Xavier de Chuquisaca<br>
 - Laboratorio de Arquitectura y Hardware de computadoras. 2016 y 2017<br>
 
 
-### Experiencia como Conferencista Internacional
+## Experiencia como Conferencista Internacional
 
 |Fecha|Lugar|Titulo de la Conferencia|Imagen| 
 |---|---|---|---|
@@ -128,68 +128,42 @@ Universidad San Francisco Xavier de Chuquisaca<br>
 |Octubre, 2021 La Paz, Bolivia |10minds – Programa Tecnologico Empresarial de la Fundación Actívate Sucre| Tema: Seguridad de la Información para Pymes y Startups| <img src="/assets/images/avatar.png" width="200" height="200">| 
 |Abril, 2020 Sucre, Bolivia |Congreso Internacional - Bolivia Experta, Universidad Católica boliviana “San Pablo” | Tema: Python para Pentesters | <img src="/assets/images/avatar.png" width="200" height="200">|
 
-### FORMACIÓN COMPLEMENTARIA – CURSOS Y CERTIFICACIONES
-FECHA
-SIGLA
-CERTIFICADORA
-NOMBRE DE LA CERTIFICACIÓN
-2022
-SIEM 201
-McAfee
-McAfee Enterprise Security Manager - 201
-2022
-CISM
-ISACA
-Curso de Preparación para CISM
-2022
-SC-900
-Microsoft
-Microsoft Security Operations Analyst
-2021
-C|CISO
-CCB
-Certified Chief information Officer
-2021
-CYBEROPS
-CISCO
-Cisco Certified CyberOps Associate
-2020
-Cybersecurity For Business
-University of Colorado
-Cybersecurity for Business
-2020
-SFC
-SCRUM
-Scrum Fundamentals Certified
-2020
-NSE1 - NSE2
-FORTINET
-Network Security Associate FORTINET
-2018
-CCNA
-CCNA
-Cisco Certified Network Associate
-2017
-COBIT 5
-ISACA
-Curso de Preparación para COBIT 5
-2017
-MTCNA
-MIKROTIK
-Mikrotik Certified Network Associate.
+## FORMACIÓN COMPLEMENTARIA – CURSOS Y CERTIFICACIONES
 
-FORMACIÓN COMPLEMENTARIA – INVESTIGACION
-2017
-Articulo Científico "Aplicación de tecnologías de visión por computadora basados en aprendizaje por redes neuronales
-RECONOCIMIENTOS ACADÉMICOS Y PROFESIONALES
-• Memorándum de Felicitación por el Alto Desempeño Laboral, Banco Bisa S.A.
-• Reconocimiento como Docente, Escuela de Negocios ESAM
-• Reconocimiento y beca por el Talento en Ciberseguridad a cargo de la Big Four ERNST & YOUNG (EY) en la Universidad La Salle Campus Barcelona. Fuente: https://www.linkedin.com/feed/update/urn:li:activity:6586935860950773760/
-• Reconocimiento por la destacada labor como Investigador de la Facultad de Tecnología. Otorgado por el Vicerrector de la Universidad San Francisco Xavier DE Chuquisaca USFX.
-• Certificado de felicitación, Otorgado por Cisco Networking Academy.
-• Certificado de Felicitación del Congreso de Ciencias de la Computación.
-• Reconocimiento - Comisión de Infraestructura y Soporte técnico del Congreso CCBOL 2017
-• Primer lugar en la feria de innovación tecnológica CCBOL 2017
+|FECHA|SIGLA|CERTIFICADORA|NOMBRE DE LA CERTIFICACIÓN|
+|---|---|---|---|
+|2022|SIEM 201|McAfee|McAfee Enterprise Security Manager - 201|
+|2022|CISM|ISACA|Curso de Preparación para CISM|
+|2022|SC-900|Microsoft|Microsoft Security Operations Analyst|
+|2021|CCISO|CCB|Certified Chief information Officer|
+|2021|CYBEROPS|CISCO|Cisco Certified CyberOps Associate|
+|2020|Cybersecurity For Business|University of Colorado|Cybersecurity for Business|
+|2020|SFC|SCRUM|Scrum Fundamentals Certified|
+|2020|NSE1 - NSE2|FORTINET|Network Security Associate FORTINET|
+|2018|CCNA|CCNA|Cisco Certified Network Associate|
+|2017|COBIT 5|ISACA|Curso de Preparación para COBIT 5|
+|2017|MTCNA|MIKROTIK|Mikrotik Certified Network Associate.|
+
+## FORMACIÓN COMPLEMENTARIA – INVESTIGACION
+- 2017 Articulo Científico "Aplicación de tecnologías de visión por computadora basados en aprendizaje por redes neuronales
+
+## RECONOCIMIENTOS ACADÉMICOS Y PROFESIONALES
+
+* Memorándum de Felicitación por el Alto Desempeño Laboral, Banco Bisa S.A.<br>
+
+* Reconocimiento como Docente, Escuela de Negocios ESAM<br>
+
+* Reconocimiento y beca por el Talento en Ciberseguridad a cargo de la Big Four ERNST & YOUNG (EY) en la Universidad La Salle Campus Barcelona. Fuente: https://www.linkedin.com/feed/update/urn:li:activity:6586935860950773760/<br>
+
+* Reconocimiento por la destacada labor como Investigador de la Facultad de Tecnología. Otorgado por el Vicerrector de la Universidad San Francisco Xavier DE Chuquisaca USFX.<br>
+
+* Certificado de felicitación, Otorgado por Cisco Networking Academy.<br>
+
+* Certificado de Felicitación del Congreso de Ciencias de la Computación.<br>
+
+* Reconocimiento - Comisión de Infraestructura y Soporte técnico del Congreso CCBOL 2017<br>
+
+* Primer lugar en la feria de innovación tecnológica CCBOL 2017<br>
 
 
 
