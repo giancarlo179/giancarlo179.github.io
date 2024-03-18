@@ -56,10 +56,10 @@ Licenciatura en Ingeniería de Sistemas, Sucre, Bolivia (2012 – 2018)<br>
 
 ***03/2023 – Actual, CERT Jefe de Proyecto – Senior Cybersecurity Consultant***<br>
 GMV Soluciones Globales Internet, Barcelona – España<br>
-Jefe de Proyectos de CERT/SOC – Implantación de SOCaaS para proyectos en Clientes del Sector Financiero.<br>
-Gestion de Personal, KPI y SLAs de Servicio de SOC.<br>
-Gestión de Incidentes de Ciberseguridad en Clientes del Sector Financiero<br>
-Gestion de Proyectos de Ciberseguridad<br>
+- Jefe de Proyectos de CERT/SOC – Implantación de SOCaaS para proyectos en Clientes del Sector Financiero.<br>
+- Gestion de Personal, KPI y SLAs de Servicio de SOC.<br>
+- Gestión de Incidentes de Ciberseguridad en Clientes del Sector Financiero<br>
+- Gestion de Proyectos de Ciberseguridad<br>
 
 ***12/2020 – 02/2023, Analista Centro de Operaciones de Seguridad de la Información***<br>
 Banco Bisa S.A – Grupo Financiero Bisa, La Paz - Bolivia<br>
