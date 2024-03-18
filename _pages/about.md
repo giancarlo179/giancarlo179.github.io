@@ -69,47 +69,48 @@ Banco Bisa S.A – Grupo Financiero Bisa, La Paz - Bolivia<br>
 - Funciones: Análisis de Ciber inteligencia - Threat Hunting - Elaboración de Politicas, Manuales y Procedimientos de Centro de Operaciones de Seguridad - Elaboración de Informes de Eventos de Ciberseguridad - Gestión de Incidentes de Seguridad.<br>
 - Mejoramiento del servicio SOC para las 9 Empresas pertenecientes al grupo financiero BISA.<br>
 
-010/2021 – Actual, Docente de Posgrado Universidad Privada del Valle, Sede La Paz - Sucre***<br>
-• Docente de Posgrado en el Diplomado de Hacking Ético y Ciberseguridad en 2 facultades de posgrado.
-• Capacite más de 500 profesionales en Hacking ético y Ciberseguridad
-• Docente del Módulo: Enumeración de sistemas, análisis de vulnerabilidades y explotación de sistemas.
-• Docente del Módulo: Técnicas avanzadas de hacking, gestión de vulnerabilidades y entrega de reportes administrativos y técnicos.
+***10/2021 – Actual, Docente de Posgrado Universidad Privada del Valle, Sede La Paz - Sucre***<br>
+- Docente de Posgrado en el Diplomado de Hacking Ético y Ciberseguridad en 2 facultades de posgrado.<br>
+- Capacite más de 500 profesionales en Hacking ético y Ciberseguridad.<br>
+- Docente del Módulo: Enumeración de sistemas, análisis de vulnerabilidades y explotación de sistemas.<br>
+- Docente del Módulo: Técnicas avanzadas de hacking, gestión de vulnerabilidades y entrega de reportes administrativos y técnicos.<br>
 
-04/2022 – 07/2022, Docente a contrato  Escuela de Negocios ESAM, Santa Cruz - Bolivia
-• Docente de cursos de especialización en Ciberseguridad, Hacking Ético, Seguridad Ofensiva, Seguridad Defensiva
-• Capacite más de 1200 estudiantes y profesionales en Bolivia, México Argentina, Chile, Panamá, Puerto Rico, Colombia
-• Docente del Curso: Ciberseguridad y Hacking Ético.
-• Docente del Curso: Ciberseguridad y Hacking Ético Nivel Avanzado
-• Docente del Curso: Gestión y Análisis de Vulnerabilidades en Ciberseguridad
-08/2021 – Actual Docente de Posgrado
-USFX Universidad San Francisco Xavier de Chuquisaca, Sucre – Bolivia
-• Docente de Posgrado en Diplomados y Especialidades formando a más de 100 profesionales
-• Docente de la Especialidad en Redes y Seguridad en el Módulo: Cybersecurity Operations CISCO CyberOps
-• Docente de Posgrado en Entornos Virtuales de Aprendizaje – Centro Especializado de Postgrado e Investigación CEPI
-• Docente de la Maestría en Derecho informático en el módulo de Hacking Ético
-04/2020 – 06/2020 Project Manager
-TAYKA, Sucre - Bolivia
-• Gestión de proyectos en desarrollo de software en plataformas WEB
-• Manager de proyectos en Plataformas virtuales de e-commerce generando ventas de más de 40.000 USD de ganancia para la empresa.
-03/2019 – 01/2020 Consultor en Ciberseguridad
-GMV Soluciones Globales Internet, Barcelona – España
-Participé en proyectos para la Agencia Espacial Europea, el Banco Caixa Bank y la Empresa de Tecnología ITNOW:
-• SIEM ArcSight, Smart Connectors ArcSight, Load Balancer ArcSight. – ESA (European Space Agency).
-• Monitorización de equipos de seguridad con SNMP ESA (European Space Agency).
-• Desarrollo de scripts Bash – Python ESA (European Space Agency).
-• Monitorización de equipos de seguridad.
-• Integraciones y administración de SIEM IBM QRadar. (Banco CAIXA Bank).
-• Automatización de la gestión de equipos de seguridad con Python. (Banco CAIXA Bank).
-• Funciones: Best practices in security controls. - Risk Assessments. - Systems hardening. - Security audits: systems, applications, services, source-code - Networking, Network Security: Firewall, proxy, IPS, WAF.
-2016 – 2018 Auxiliar de Docencia Universitaria
-Universidad San Francisco Xavier de Chuquisaca
-Ganador del examen de competencia para Beca Auxiliar de Docencia capacitando a más de 600 estudiantes de grado en la carrera de ingeniería de Sistemas
-• Seguridad en redes I. 2018
-• Redes de datos I. 2018
-• Laboratorio de Arquitectura y Hardware de computadoras. 2016 y 2017
+***04/2022 – 07/2022, Docente a contrato  Escuela de Negocios ESAM, Santa Cruz - Bolivia***<br>
+- Docente de cursos de especialización en Ciberseguridad, Hacking Ético, Seguridad Ofensiva, Seguridad Defensiva.<br>
+- Capacite más de 1200 estudiantes y profesionales en Bolivia, México Argentina, Chile, Panamá, Puerto Rico, Colombia.<br>
+- Docente del Curso: Ciberseguridad y Hacking Ético.<br>
+- Docente del Curso: Ciberseguridad y Hacking Ético Nivel Avanzado.<br>
+- Docente del Curso: Gestión y Análisis de Vulnerabilidades en Ciberseguridad.<br>
+
+***08/2021 – Actual Docente de Posgrado, USFX Universidad San Francisco Xavier de Chuquisaca, Sucre – Bolivia****<br>
+- Docente de Posgrado en Diplomados y Especialidades formando a más de 100 profesionales.<br>
+- Docente de la Especialidad en Redes y Seguridad en el Módulo: Cybersecurity Operations CISCO CyberOps.<br>
+- Docente de Posgrado en Entornos Virtuales de Aprendizaje – Centro Especializado de Postgrado e Investigación CEPI.<br>
+- Docente de la Maestría en Derecho informático en el módulo de Hacking Ético.<br>
+
+****04/2020 – 06/2020 Project Manager TAYKA, Sucre - Bolivia****<br>
+- Gestión de proyectos en desarrollo de software en plataformas WEB<br>
+- Manager de proyectos en Plataformas virtuales de e-commerce generando ventas de más de 40.000 USD de ganancia para la empresa.<br>
+
+****03/2019 – 01/2020 Consultor en Ciberseguridad GMV Soluciones Globales Internet, Barcelona – España****<br>
+- Participé en proyectos para la Agencia Espacial Europea, el Banco Caixa Bank y la Empresa de Tecnología ITNOW:<br>
+- SIEM ArcSight, Smart Connectors ArcSight, Load Balancer ArcSight. – ESA (European Space Agency).<br>
+- Monitorización de equipos de seguridad con SNMP ESA (European Space Agency).<br>
+- Desarrollo de scripts Bash – Python ESA (European Space Agency).<br>
+- Monitorización de equipos de seguridad.<br>
+- Integraciones y administración de SIEM IBM QRadar. (Banco CAIXA Bank).<br>
+- Automatización de la gestión de equipos de seguridad con Python. (Banco CAIXA Bank).<br>
+- Funciones: Best practices in security controls. - Risk Assessments. - Systems hardening. - Security audits: systems, applications, services, source-code - Networking, Network Security: Firewall, proxy, IPS, WAF.<br>
+
+****2016 – 2018 Auxiliar de Docencia Universitaria Universidad San Francisco Xavier de Chuquisaca****<br>
+- Ganador del examen de competencia para Beca Auxiliar de Docencia capacitando a más de 600 estudiantes de grado en la carrera de ingeniería de Sistemas<br>
+- Seguridad en redes I. 2018<br>
+- Redes de datos I. 2018<br>
+- Laboratorio de Arquitectura y Hardware de computadoras. 2016 y 2017<br>
 
 
 ### Experiencia como Conferencista Internacional
+
 Noviembre, 2022 4to Congreso Internacional de Seguridad Informática – AGETIC – Min. de la Presidencia
 La Paz, Bolivia Tema: El mundo detrás de un email Phishing
 Agosto, 2022 Congreso Internacional de Ciberseguridad en Bancos y Entidades Financieras
