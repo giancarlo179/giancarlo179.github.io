@@ -41,7 +41,7 @@ Licenciatura en Ingeniería de Sistemas, Sucre, Bolivia (2012 – 2018)<br>
 ***Universidad Privada del Valle***
 
 2022 – En Curso CISSP - Certified Information Systems Security Professional<br>
-(ISC)2
+***(ISC)2 - En Curso Examen programado Octubre 2024***
 
 2022 C|EH - Certified Ethical Hacker<br>
 ***EC Council – Score: 96/100***
@@ -54,28 +54,28 @@ Licenciatura en Ingeniería de Sistemas, Sucre, Bolivia (2012 – 2018)<br>
 
 ## Experiencia Profesional
 
-***03/2023 – Actual CERT Jefe de Proyecto – Senior Cybersecurity Consultant***<br>
+***03/2023 – Actual, CERT Jefe de Proyecto – Senior Cybersecurity Consultant***<br>
 GMV Soluciones Globales Internet, Barcelona – España<br>
 Jefe de Proyectos de CERT/SOC – Implantación de SOCaaS para proyectos en Clientes del Sector Financiero.<br>
 Gestion de Personal, KPI y SLAs de Servicio de SOC.<br>
 Gestión de Incidentes de Ciberseguridad en Clientes del Sector Financiero<br>
 Gestion de Proyectos de Ciberseguridad<br>
 
-***12/2020 – 02/2023 Analista Centro de Operaciones de Seguridad de la Información***<br>
+***12/2020 – 02/2023, Analista Centro de Operaciones de Seguridad de la Información***<br>
 Banco Bisa S.A – Grupo Financiero Bisa, La Paz - Bolivia<br>
 • Líder y Project Manager del Proyecto de Implementación de SIEM con más de 150 fuentes de datos integradas y diseño de más de 30 casos de uso.
 • Supervisión de Bitácoras, Reportes y KPI de Operadores SOC Nivel 1
 • Analista SOC Nivel 2, Nivel 3
 • Funciones: Análisis de Ciber inteligencia - Threat Hunting - Elaboración de Politicas, Manuales y Procedimientos de Centro de Operaciones de Seguridad - Elaboración de Informes de Eventos de Ciberseguridad - Gestión de Incidentes de Seguridad
 • Mejoramiento del servicio SOC para las 9 Empresas pertenecientes al grupo financiero BISA
-010/2021 – Actual Docente de Posgrado
-Universidad Privada del Valle, Sede La Paz - Sucre
+
+010/2021 – Actual, Docente de Posgrado Universidad Privada del Valle, Sede La Paz - Sucre***<br>
 • Docente de Posgrado en el Diplomado de Hacking Ético y Ciberseguridad en 2 facultades de posgrado.
 • Capacite más de 500 profesionales en Hacking ético y Ciberseguridad
 • Docente del Módulo: Enumeración de sistemas, análisis de vulnerabilidades y explotación de sistemas.
 • Docente del Módulo: Técnicas avanzadas de hacking, gestión de vulnerabilidades y entrega de reportes administrativos y técnicos.
-04/2022 – 07/2022 Docente a contrato
-Escuela de Negocios ESAM, Santa Cruz - Bolivia
+
+04/2022 – 07/2022, Docente a contrato  Escuela de Negocios ESAM, Santa Cruz - Bolivia
 • Docente de cursos de especialización en Ciberseguridad, Hacking Ético, Seguridad Ofensiva, Seguridad Defensiva
 • Capacite más de 1200 estudiantes y profesionales en Bolivia, México Argentina, Chile, Panamá, Puerto Rico, Colombia
 • Docente del Curso: Ciberseguridad y Hacking Ético.
