@@ -13,7 +13,7 @@ date: 2023-12-15
 
 Mi nombre es Giancarlo Pasquale Bellido (aka **astetrix**), actualmente trabajo como Jefe de Proyectos en la Consultora GMV en la division de CERT.<br>
 
-Ingeniero de Sistemas, Máster en Ciberseguridad, Hacker ético Certificado C|EH, Auditor Interno Certificado IRCA, Ganador del premio al talento en Ciberseguridad España 2019, Docente de Postgrado en Especialidades, Maestrías y Diplomados, con experiencia en el área de Pentesting, Ethical Hacking, SIEM, SOC, Networking, IT Infrastructure Network Management, Network administration, Network Monitoring.<br>
+Ingeniero de Sistemas, Máster en Ciberseguridad, Hacker ético Certificado CEH, Auditor Interno Certificado IRCA, Ganador del premio al talento en Ciberseguridad España 2019, Docente de Postgrado en Especialidades, Maestrías y Diplomados, con experiencia en el área de Pentesting, Ethical Hacking, SIEM, SOC, Networking, IT Infrastructure Network Management, Network administration, Network Monitoring.<br>
 
 Me considero una persona activa con habilidad de trabajar en equipo, con habilidad de buscar soluciones determinadas a los problemas de manera estratégica, formular soluciones. Mantengo mi carácter firme en el trabajo a presión y me adapto fácilmente a entornos diferentes para afrontar nuevas tareas.<br>
 
@@ -84,19 +84,19 @@ Escuela de Negocios ESAM, Santa Cruz - Bolivia<br>
 - Docente del Curso: Ciberseguridad y Hacking Ético Nivel Avanzado.<br>
 - Docente del Curso: Gestión y Análisis de Vulnerabilidades en Ciberseguridad.<br>
 
-***08/2021 – Actual Docente de Posgrado****<br>
+***08/2021 – Actual Docente de Posgrado***<br>
 USFX Universidad San Francisco Xavier de Chuquisaca, Sucre – Bolivia<br>
 - Docente de Posgrado en Diplomados y Especialidades formando a más de 100 profesionales.<br>
 - Docente de la Especialidad en Redes y Seguridad en el Módulo: Cybersecurity Operations CISCO CyberOps.<br>
 - Docente de Posgrado en Entornos Virtuales de Aprendizaje – Centro Especializado de Postgrado e Investigación CEPI.<br>
 - Docente de la Maestría en Derecho informático en el módulo de Hacking Ético.<br>
 
-****04/2020 – 06/2020 Project Manager****<br>
+***04/2020 – 06/2020 Project Manager***<br>
 TAYKA, Sucre - Bolivia<br>
 - Gestión de proyectos en desarrollo de software en plataformas WEB<br>
 - Manager de proyectos en Plataformas virtuales de e-commerce generando ventas de más de 40.000 USD de ganancia para la empresa.<br>
 
-****03/2019 – 01/2020 Consultor en Ciberseguridad****<br>
+***03/2019 – 01/2020 Consultor en Ciberseguridad***<br>
 GMV Soluciones Globales Internet, Barcelona – España<br>
 - Participé en proyectos para la Agencia Espacial Europea, el Banco Caixa Bank y la Empresa de Tecnología ITNOW:<br>
 - SIEM ArcSight, Smart Connectors ArcSight, Load Balancer ArcSight. – ESA (European Space Agency).<br>
@@ -107,7 +107,7 @@ GMV Soluciones Globales Internet, Barcelona – España<br>
 - Automatización de la gestión de equipos de seguridad con Python. (Banco CAIXA Bank).<br>
 - Funciones: Best practices in security controls. - Risk Assessments. - Systems hardening. - Security audits: systems, applications, services, source-code - Networking, Network Security: Firewall, proxy, IPS, WAF.<br>
 
-****2016 – 2018 Auxiliar de Docencia Universitaria****<br>
+***2016 – 2018 Auxiliar de Docencia Universitaria***<br>
 Universidad San Francisco Xavier de Chuquisaca<br>
 - Ganador del examen de competencia para Beca Auxiliar de Docencia capacitando a más de 600 estudiantes de grado en la carrera de ingeniería de Sistemas<br>
 - Seguridad en redes I. 2018<br>
