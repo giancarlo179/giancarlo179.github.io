@@ -54,7 +54,7 @@ Licenciatura en Ingeniería de Sistemas, Sucre, Bolivia (2012 – 2018)<br>
 
 ## Experiencia Profesional
 
-***03/2023 – Actual, CERT Jefe de Proyecto – Senior Cybersecurity Consultant***<br>
+***03/2023 – Actual | CERT Jefe de Proyecto – Senior Cybersecurity Consultant***<br>
 GMV Soluciones Globales Internet, Barcelona – España<br>
 - Jefe de Proyectos de CERT/SOC – Implantación de SOCaaS para proyectos en Clientes del Sector Financiero.<br>
 - Gestion de Personal, KPI y SLAs de Servicio de SOC.<br>
@@ -69,30 +69,35 @@ Banco Bisa S.A – Grupo Financiero Bisa, La Paz - Bolivia<br>
 - Funciones: Análisis de Ciber inteligencia - Threat Hunting - Elaboración de Politicas, Manuales y Procedimientos de Centro de Operaciones de Seguridad - Elaboración de Informes de Eventos de Ciberseguridad - Gestión de Incidentes de Seguridad.<br>
 - Mejoramiento del servicio SOC para las 9 Empresas pertenecientes al grupo financiero BISA.<br>
 
-***10/2021 – Actual, Docente de Posgrado Universidad Privada del Valle, Sede La Paz - Sucre***<br>
+***10/2021 – Actual, Docente de Posgrado***<br>
+Universidad Privada del Valle, Sede La Paz - Sucre<br>
 - Docente de Posgrado en el Diplomado de Hacking Ético y Ciberseguridad en 2 facultades de posgrado.<br>
 - Capacite más de 500 profesionales en Hacking ético y Ciberseguridad.<br>
 - Docente del Módulo: Enumeración de sistemas, análisis de vulnerabilidades y explotación de sistemas.<br>
 - Docente del Módulo: Técnicas avanzadas de hacking, gestión de vulnerabilidades y entrega de reportes administrativos y técnicos.<br>
 
-***04/2022 – 07/2022, Docente a contrato  Escuela de Negocios ESAM, Santa Cruz - Bolivia***<br>
+***04/2022 – 07/2022, Docente a contrato***<br>
+Escuela de Negocios ESAM, Santa Cruz - Bolivia<br>
 - Docente de cursos de especialización en Ciberseguridad, Hacking Ético, Seguridad Ofensiva, Seguridad Defensiva.<br>
 - Capacite más de 1200 estudiantes y profesionales en Bolivia, México Argentina, Chile, Panamá, Puerto Rico, Colombia.<br>
 - Docente del Curso: Ciberseguridad y Hacking Ético.<br>
 - Docente del Curso: Ciberseguridad y Hacking Ético Nivel Avanzado.<br>
 - Docente del Curso: Gestión y Análisis de Vulnerabilidades en Ciberseguridad.<br>
 
-***08/2021 – Actual Docente de Posgrado, USFX Universidad San Francisco Xavier de Chuquisaca, Sucre – Bolivia****<br>
+***08/2021 – Actual Docente de Posgrado****<br>
+USFX Universidad San Francisco Xavier de Chuquisaca, Sucre – Bolivia<br>
 - Docente de Posgrado en Diplomados y Especialidades formando a más de 100 profesionales.<br>
 - Docente de la Especialidad en Redes y Seguridad en el Módulo: Cybersecurity Operations CISCO CyberOps.<br>
 - Docente de Posgrado en Entornos Virtuales de Aprendizaje – Centro Especializado de Postgrado e Investigación CEPI.<br>
 - Docente de la Maestría en Derecho informático en el módulo de Hacking Ético.<br>
 
-****04/2020 – 06/2020 Project Manager TAYKA, Sucre - Bolivia****<br>
+****04/2020 – 06/2020 Project Manager****<br>
+TAYKA, Sucre - Bolivia<br>
 - Gestión de proyectos en desarrollo de software en plataformas WEB<br>
 - Manager de proyectos en Plataformas virtuales de e-commerce generando ventas de más de 40.000 USD de ganancia para la empresa.<br>
 
-****03/2019 – 01/2020 Consultor en Ciberseguridad GMV Soluciones Globales Internet, Barcelona – España****<br>
+****03/2019 – 01/2020 Consultor en Ciberseguridad****<br>
+GMV Soluciones Globales Internet, Barcelona – España<br>
 - Participé en proyectos para la Agencia Espacial Europea, el Banco Caixa Bank y la Empresa de Tecnología ITNOW:<br>
 - SIEM ArcSight, Smart Connectors ArcSight, Load Balancer ArcSight. – ESA (European Space Agency).<br>
 - Monitorización de equipos de seguridad con SNMP ESA (European Space Agency).<br>
@@ -102,7 +107,8 @@ Banco Bisa S.A – Grupo Financiero Bisa, La Paz - Bolivia<br>
 - Automatización de la gestión de equipos de seguridad con Python. (Banco CAIXA Bank).<br>
 - Funciones: Best practices in security controls. - Risk Assessments. - Systems hardening. - Security audits: systems, applications, services, source-code - Networking, Network Security: Firewall, proxy, IPS, WAF.<br>
 
-****2016 – 2018 Auxiliar de Docencia Universitaria Universidad San Francisco Xavier de Chuquisaca****<br>
+****2016 – 2018 Auxiliar de Docencia Universitaria****<br>
+Universidad San Francisco Xavier de Chuquisaca<br>
 - Ganador del examen de competencia para Beca Auxiliar de Docencia capacitando a más de 600 estudiantes de grado en la carrera de ingeniería de Sistemas<br>
 - Seguridad en redes I. 2018<br>
 - Redes de datos I. 2018<br>
